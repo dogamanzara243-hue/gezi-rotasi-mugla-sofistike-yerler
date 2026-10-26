@@ -1,57 +1,57 @@
 {
     "title": "Mugla Sofistike Yerler Rehberi",
-    "description": "Mugla şehrindeki en seçkin sofistike yerler ve popüler duraklar.",
-    "badge": "Sofistike Yerler",
+    "description": "Mugla şehrindeki en şık, kültür dolu, zarafet ve özgünlük sunan sofistike mekânlar.",
+    "badge": "Sofistike & Gurme Deneyim",
     "category": [
         {
-            "id": "mugla-sofistike-yerler-1",
-            "title": "Mugla Butik Sanat Galerisi ve Atölye",
-            "category_badge": "Kültür & Sanat",
-            "badge_icon": "fa-gem",
-            "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan seçkin sanat eserlerinin sergilendiği, entelektüel buluşmaların adresi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "macakizi-bodrum",
+            "title": "Maçakızı Bodrum",
+            "category_badge": "Lüks Beach & Gastronomi",
+            "badge_icon": "fa-umbrella-beach",
+            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Göltürkbükü'nde sanat, jet-set yaşam tarzı ve haute cuisine mutfağın dünyaca ünlü ikonik buluşma noktası.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/macakizi-bodrum",
+            "button_text": "Mekanı Keşfet"
         },
         {
-            "id": "mugla-sofistike-yerler-2",
-            "title": "Mugla Nezih Kahve ve Tasarım Kafe",
-            "category_badge": "Gurme & Atmosfer",
-            "badge_icon": "fa-mug-hot",
-            "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan özel demleme kahveleri ve sakin atmosferiyle seçkinlerin tercihi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "yalkavak-marina-mugla",
+            "title": "Yalıkavak Marina & Ultra Lüks Yaşam",
+            "category_badge": "Dünya Çapında Marina",
+            "badge_icon": "fa-anchor",
+            "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Süper yatların demirlediği, Michelin yıldızlı restoranlar ve lüks moda markalarıyla dolu marinanın kalbi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/yalikavak-marina",
+            "button_text": "Marinayı İncele"
         },
         {
-            "id": "mugla-sofistike-yerler-3",
-            "title": "Mugla Tasarım Moda Sokağı",
-            "category_badge": "Lüks & Stil",
-            "badge_icon": "fa-shirt",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan özgün tasarım butiklerinin ve haute couture mağazaların yer aldığı şık sokak.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "mugla-sofistike-yerler-4",
-            "title": "Mugla Tarihi Butik Otel ve Konaklama",
-            "category_badge": "Aristokratik Dokunuş",
-            "badge_icon": "fa-hotel",
-            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan asırlık mimariyi lüks konforla buluşturan seçkin konaklama noktası.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "mugla-sofistike-yerler-5",
-            "title": "Mugla Manzaralı Çatı Katı Restoranı",
-            "category_badge": "Fine Dining",
-            "badge_icon": "fa-utensils",
+            "id": "d-resort-göcek",
+            "title": "D-Resort Göcek & Q Lounge",
+            "category_badge": "Butik Marjinal Lüks",
+            "badge_icon": "fa-champagne-glasses",
             "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan şehrin siluetine nazır, ödüllü mutfağıyla üst düzey gastronomik deneyim.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "description": "Göcek körfezinde çam ağaçları arasına gizlenmiş, Asya füzyon lezzetleri ve sofistike mimari.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/d-resort-gocek",
+            "button_text": "Resort'u İncele"
+        },
+        {
+            "id": "amanruya-bodrum",
+            "title": "Amanruya Bodrum",
+            "category_badge": "Huzur & Şıklık",
+            "badge_icon": "fa-gem",
+            "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Zeytinlikler arasında, Osmanlı mimarisi etkisindeki taş pavyonlarda doğayla baş başa lüks konaklama deneyimi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/amanruya-bodrum",
+            "button_text": "Amanruya'yı Gör"
+        },
+        {
+            "id": "d-maris-bay-datca",
+            "title": "D Maris Bay Datça",
+            "category_badge": "Koy Masalı & SPA",
+            "badge_icon": "fa-spa",
+            "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Datça Yarımadası'nda 5 büyüleyici koya bakan, helikopter pisti ve dünya çapında restoranları barındıran cennet.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-sofistike-yerler/d-maris-bay",
+            "button_text": "Koyları Gör"
         }
     ]
 }
